@@ -1,10 +1,14 @@
 # DEMO
 
-some  more discription!!
+some more discription!!
 
 ## Subheader
 
 watch tutorial on YouTube
+
+# Local Development
+
+1. Open index.html in your browser
 
 # Create T3 App
 
@@ -24,4 +28,3 @@ yarn add ws nanoid node-fetch@2.6.1
 
 yarn add @types/ws npm-run-all @types/cookie @types/node-fetch@2.5.11 ts-node-dev -D
 ```
-
